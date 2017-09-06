@@ -1,0 +1,11 @@
+install npm and node
+go to project folder
+npm install -g gulp
+
+npm install semantic-ui --save
+npm install semantic-ui-component
+npm install semantic-ui-react
+
+download Semantic-UI-CSS from https://semantic-ui.com/introduction/getting-started.html
+put semantic.min.css and semantic.min.js to somewhere
+import the above two files in your index.html
